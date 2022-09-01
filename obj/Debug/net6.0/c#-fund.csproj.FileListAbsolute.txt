@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/bin/Debug/net6.0/c#-fund
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/bin/Debug/net6.0/c#-fund.deps.json
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/bin/Debug/net6.0/c#-fund.runtimeconfig.json
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/bin/Debug/net6.0/c#-fund.dll
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/bin/Debug/net6.0/c#-fund.pdb
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/obj/Debug/net6.0/c#-fund.csproj.AssemblyReference.cache
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/obj/Debug/net6.0/c#-fund.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/obj/Debug/net6.0/c#-fund.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/obj/Debug/net6.0/c#-fund.AssemblyInfo.cs
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/obj/Debug/net6.0/c#-fund.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/obj/Debug/net6.0/c#-fund.dll
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/obj/Debug/net6.0/refint/c#-fund.dll
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/obj/Debug/net6.0/c#-fund.pdb
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/obj/Debug/net6.0/c#-fund.genruntimeconfig.cache
+/Users/macbookair/Desktop/Frontend-Developer/csharp-fund/obj/Debug/net6.0/ref/c#-fund.dll
